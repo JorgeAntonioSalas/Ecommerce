@@ -1,8 +1,8 @@
 {
-  "name": "final-project",
+  "name": "version-final",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "seed.js",
   "scripts": {
     "dev": "nodemon ./src/server.js",
     "start": "node ./src/server.js",
